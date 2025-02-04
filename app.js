@@ -30,6 +30,13 @@ function sortearAmigo() {
     }
 }
 
+function reiniciarLista() {
+    listaNomes = []; 
+    atualizarListaNomes(); 
+    document.getElementById("resultado").innerHTML = ""; 
+}
+
+
 function limparCampo() {
     document.querySelector("input").value = "";
 }
