@@ -148,11 +148,15 @@ ul {
 .button-draw {
     display: flex;
     align-items: center;
-    width: 100%;
-    padding: 10px 40px;
+    justify-content: center; /* Centraliza os itens */
+    gap: 8px; /* Adiciona um espaço entre o ícone e o texto */
+    width: auto; /* Ajusta a largura conforme o conteúdo */
+    padding: 10px 20px;
     color: var(--color-white);
     background-color: var(--color-button);
     font-size: 16px;
+    font-weight: bold;
+    text-align: center;
 }
 
 .button-draw img {
