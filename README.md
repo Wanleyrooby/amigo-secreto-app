@@ -20,3 +20,8 @@ Um aplicativo simples para sortear amigos secretos, desenvolvido com HTML, CSS e
   - CSS → Estilização e layout responsivo
   - JavaScript → Lógica para manipulação da lista e sorteio
 
+# 📁 Acesso ao projeto
+
+
+https://github.com/user-attachments/assets/f30ecf03-c499-4b71-acf7-5fc6ebcc3ee4
+
