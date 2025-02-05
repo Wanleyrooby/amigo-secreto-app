@@ -33,6 +33,7 @@ function sortearAmigo() {
 function reiniciarLista() {
     listaNomes = []; 
     atualizarListaNomes(); 
+    limparCampo();
     document.getElementById("resultado").innerHTML = ""; 
 }
 
